@@ -18,15 +18,15 @@ const dayClass = classnames("day-list__item", {
 const formatSpots = (spots) => {
     
 if(spots === 0) {
-return "no spots remaining"
+return "There are no spots left"
 } 
 
 else if(spots === 1) {
-return "1 spot remaining"
+return "There is one spot left"
 } 
 
 else{
-return `${spots} spots remaining`
+return `There are ${spots} spots left`
 }
 
 }
