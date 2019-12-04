@@ -1,5 +1,7 @@
 # Interview Scheduler
 
+This is a school project I made used for booking student interviews, its a scheduler website. 
+
 ## Setup
 
 Install dependencies with `npm install`.
