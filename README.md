@@ -2,6 +2,8 @@
 
 Interview scheduler is a responsive web application made using React.js, the app's purpose is to create your own appointments. You can select your day and the person you would like to schedule your appointment with. The app is fully responsive and uses an external API to deliver the interviewers information and available times. 
 
+* This app is made to run in conjunction with the scheduler-api that I have created for it to fetch and store the data
+
 
 ## Pictures 
 ![Screenshot_2020-02-01_19-12-29](https://user-images.githubusercontent.com/53335999/73601034-0a2dbf00-4528-11ea-8a40-050edc0be66d.png)
